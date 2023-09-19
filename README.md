@@ -1,4 +1,7 @@
-# Web-programming Lab1 
+# Web-programming
+
 Тема - Apple company
+
 ФИТИП М33091 Аббасов Мушвиг Азерович
-https://github.com/Mushvigg/Web-programming/blob/main/Lab1/index.html
+
+<https://mushvigg.github.io/Web-programming/>
